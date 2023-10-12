@@ -1,4 +1,4 @@
-## Olá! sou o Ícaro reis!🤖
+## Olá! sou Ícaro reis!🤖
 <div align="center">
   <a href="https://github.com/icaropaixao">
   <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=icaropaixao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
