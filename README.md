@@ -12,17 +12,17 @@
 >
 >🎓 Cursando Analise e Desenvolvimento de sistemas
 >
->🌱 Aprendendo mais sobre: JavaScript, React, NextJs, Banco de dados, NodeJs, Git/Github
+>🌱 Aprendendo mais sobre: JavaScript, Java, Banco de dados, NodeJs, SQL, Git/Github
 
  <br/>
 
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/5dca329190fa53931f4cdab984acc668e149d3e5/svg/java.svg" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" alt="CSS"/></code>
 
 
  <br/>
@@ -34,18 +34,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
  <br/>
- 
-## ⭐ Informações sobre minha conta GitHub
-
-<div>
-<a href="https://github.com/icaropaixao">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaropaixao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropaixao&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
-<br>
-
-### **Onde me encontrar**
 
 
 <div>
