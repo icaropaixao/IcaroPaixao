@@ -12,7 +12,7 @@
 >
 >🎓 Cursando Analise e Desenvolvimento de sistemas
 >
->🌱 Aprendendo mais sobre: JavaScript, Java, Banco de dados, NodeJs,Feat,MySQL, MongoDb, Git/Github
+>🌱 Aprendendo mais sobre: JavaScript, Java, Banco de dados, NodeJs,React,MySQL, MongoDb, Git/Github
 
  <br/>
 
