@@ -12,7 +12,7 @@
 >
 >🎓 Cursando Analise e Desenvolvimento de sistemas
 >
->🌱 Estudos que quero aperfeiçoar: JavaScript, Java, Banco de dados, NodeJs,React,MySQL, MongoDb, Git/Github
+>🌱 Estudos que quero aperfeiçoar: JavaScript,TypeScript, Java, Banco de dados, NodeJs,React,MySQL, MongoDb, Git/Github
 
  <br/>
 
