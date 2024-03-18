@@ -21,7 +21,7 @@
                   
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/5dca329190fa53931f4cdab984acc668e149d3e5/svg/java.svg" alt="Java"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" alt="React"/></code>
 
