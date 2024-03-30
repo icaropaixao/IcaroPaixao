@@ -8,9 +8,9 @@
 
  ## Sobre mim
 
->👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+>👩🏾‍💻 Explorando novas tecnologias para desenvolvimento Full Stack.
 >
->🎓 Cursando Analise e Desenvolvimento de sistemas
+>🎓 Cursando Análise e Desenvolvimento de sistemas
 >
 >🌱 Tecnologias que estou me aprofundando: JavaScript, TypeScript, Java, Angular, NodeJs, React, MySQL, MongoDb
 
