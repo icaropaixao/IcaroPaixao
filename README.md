@@ -8,7 +8,7 @@
 
  ## Sobre mim
 
->👩🏾‍💻 Explorando novas tecnologias para desenvolvimento Full Stack.
+>👩🏾‍💻 Explorando tecnologias para desenvolvimento Full Stack.
 >
 >🎓 Cursando Análise e Desenvolvimento de sistemas
 >
