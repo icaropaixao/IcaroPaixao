@@ -12,7 +12,7 @@
 >
 >🎓 Cursando Análise e Desenvolvimento de sistemas
 >
->🌱 Tecnologias que estou me aprofundando: JavaScript, TypeScript, Java, Angular, NodeJs, React, MySQL, MongoDb
+>🌱 Tecnologias que estou me aprofundando: Java, SpringBoot, Angular, NodeJs, React, MySQL, MongoDb
 
  <br/>
 
