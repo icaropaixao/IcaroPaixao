@@ -6,19 +6,17 @@
  
  <br/>
 
+
+
  ## Sobre mim
 
 >👩🏾‍💻 Explorando tecnologias para desenvolvimento Full Stack.
 >
 >🎓 Cursando Análise e Desenvolvimento de sistemas
 >
->🌱 Tecnologias que estou me aprofundando: Java, SpringBoot, Angular, NodeJs, React, MySQL, MongoDb
+>🌱 Tecnologias que estou me aprofundando: Java, SpringBoot, Angular, NodeJs, JavaScript, MySQL, MongoDb
 
  <br/>
-
-## 🚀 Atualmente estudando sobre:
-
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="Java"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="SpringBoot"/></code>
@@ -42,9 +40,10 @@
 
  <br/>
 
-### 🌐 CONTATO:
+ ### 🌐 CONTATO:
 <div>
 
 <a href = "[icaroreis1982@gmail.com](mailto:icaroreis1982@gmail.com)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
 <a href="https://www.linkedin.com/in/%C3%ADcaro-reis-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
