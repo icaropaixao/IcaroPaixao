@@ -1,16 +1,16 @@
  
- # Olá, me chamo Ícaro 👋
- ## Sou um desenvolvedor Back-end 
+ # Olá, me chamo Ícaro.
+ ## Sou um desenvolvedor Back-end.
  
  <br/>
 
- ## Sobre mim
+ ## Sobre mim:
 
->👩🏾‍💻 Explorando tecnologias para desenvolvimento Full Stack.
+>👩🏾‍💻 Explorando tecnologias para desenvolvimento Full Stack;
 
->🎓 Cursando Análise e Desenvolvimento de sistemas 3º Período
->
->🌱 Tecnologias que estou me aprofundando: Java, SpringBoot, Angular, NodeJs, JavaScript, MySQL, MongoDb
+>🎓 Cursando Análise e Desenvolvimento de sistemas 3º Período;
+
+>🌱 Estudando tecnologias como: Java, SpringBoot, Angular, NodeJs, JavaScript, MySQL & MongoDb.
 
  <br/>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
