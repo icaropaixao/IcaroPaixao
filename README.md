@@ -1,24 +1,14 @@
  
  # Olá, me chamo Ícaro.
- ## Sou um desenvolvedor Back-end.
  
- <br/>
+### Bem-vindo 👋
 
- ## Sobre mim:
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas no 3º Período, com foco em desenvolvimento e análise de sistemas. Comprometido em aprender e crescer constantemente nesta área dinâmica. Em busca de oportunidades para aplicar minhas habilidades e contribuir para projetos desafiadores.
 
->👩🏾‍💻 Explorando tecnologias para desenvolvimento Full Stack;
+Além da faculdade, estou me dedicando a estudar desenvolvimento Java, focando em tecnologias como Java, Spring Boot, JavaScript, Angular, JPA/Hibernate, APIs RESTful, MySQL, PostGreSQL, Docker, GIT... Estou comprometido em construir uma carreira sólida, aplicando essas habilidades em projetos práticos e buscando constantemente o aperfeiçoamento.
 
->🎓 Cursando Análise e Desenvolvimento de sistemas 3º Período;
-
->🌱 Estudando tecnologias como: Java, SpringBoot, Angular, NodeJs, JavaScript, MySQL & MongoDb.
-
- <br/>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="Java"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Springpng"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Light.svg" alt="Mysql"/></code>
-
- <br/>
+## Tecnologias e Ferramentas
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-483D8B?style=for-the-badge&logo=eclipse&logoColor=white">  <img src="https://img.shields.io/badge/postgresql-008B8B?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
  ### 🌐 CONTATO:
 <div>
