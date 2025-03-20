@@ -16,6 +16,3 @@ Aplico práticas de clean code, design patterns e metodologias ágeis (Scrum, Ka
 <a href="https://www.linkedin.com/in/%C3%ADcaro-reis-dev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/icaropaixao/icaropaixao/output/snake.svg" alt="Snake animation" />
-
-###
